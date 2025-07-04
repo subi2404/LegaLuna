@@ -45,8 +45,8 @@ Legaluna combines **technology, accessibility, and community** to make legal hel
 
 ## 🛠️ Tech Stack
 
-* Frontend: HTML, CSS, JavaScript
-* Backend: Integrated AI with RAG logic
+* Frontend: React.js + Vite + TypeScript
+* Backend: Node.js + Express.js
 * Auth: Firebase Authentication
 * Hosting: Netlify
 * Language Support: Multilingual (English + Tamil)
