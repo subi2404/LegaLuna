@@ -1,7 +1,7 @@
 
 ---
 
-# 🧾 Legaluna – Your Multilingual Legal Companion
+# Legaluna – Your Multilingual Legal Companion
 
 🌐 [Live Prototype](https://legaluna.netlify.app)
 
