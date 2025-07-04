@@ -7,8 +7,6 @@
 
 **Legaluna** is a user-friendly, AI-powered platform designed to break down the barriers to legal support in India. Whether you're drafting a rent agreement, learning about your rights, or seeking instant help, Legaluna offers a seamless way to get legal assistance – without jargon, confusion, or long waits.
 
-🏆 **Winner – First Place at Intra-College IDEATHON**
-
 ---
 
 ## 🚀 What Makes Legaluna Different?
